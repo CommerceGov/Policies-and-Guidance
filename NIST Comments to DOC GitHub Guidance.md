@@ -1,11 +1,11 @@
-Re: who may have administrative and write access
+**Re: who may have administrative and write access**
 
 NIST currently allows non-DOC collaborators for read-only membership to public and private GitHub repositories.  These non-DOC collaborators include researchers from other federal agencies, national laboratories, and universities, as well as international collaborators.  Many times, these collaborators will have spent months or years at NIST as research associates and continue to work with us when they return home.  Each need for a private repository and non-NIST collaborators is unique.  Our collaborators expect to be treated equally with DOC research team members.  It is an integral and routine part of the scientific collaboration process and allows NIST to fulfill its mission, helping to shape and improve our research program.
 
-Re: approval steps
+**Re: approval steps**
 
 We used the DOC Social Media Application to register our first account and review the GitHub government terms of service. Requiring all users to register with the DOC social media tracking application may be an unnecessary administrative burden on staff using GitHub at NIST.  We allow personal accounts.  It is common practice in the scientific and technical community to use personal accounts on social media to discuss work-related technical topics.  This is also consistent with the DOC Public Communications Policy.  Our rules of behavior do stipulate that a nist.gov email address must be associated with USNISTGOV repos in the account notification center.  We require division chief, supervisor, and ITSO approval and also require that a PI be associated with every repository as a single point of contact for the public.  Another reason to use existing GitHub accounts is to promote existing repos associated with our users; some are prolific GitHub users with related scientific software.
 
-Re: posting DOC content to GitHub public repositories
+**Re: posting DOC content to GitHub public repositories**
 
 NIST requires that GitHub never be the single source for any data project; this is normally how Git works as a local copy is required for development.  This negates the need for quarterly downloads as suggested.  Again, we do not currently record GitHub repository in the DOC Social Media Application Tracking System.  Could we comply by creating an annual report for DOC and updating the Tracking System on an annual basis?
