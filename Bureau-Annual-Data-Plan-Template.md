@@ -1,4 +1,4 @@
-__Draft document.  Work in progress.__
+__Draft document.__
 
 General guidelines:
 
