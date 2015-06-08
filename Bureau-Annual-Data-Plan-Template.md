@@ -11,7 +11,7 @@ General guidelines:
 ## Bureau XYZ
 
 ###Bureau's Mission: 
-To support America's economic prosperity and its competitiveness abroad.  Bureau's Desired Outcomes under the [Department's Strategic Plan](http://2010-2014.commerce.gov/sites/default/files/documents/2014/march/doc_fy2014-2018_strategic_plan.pdf) for Data:
+To support America's economic prosperity and its competitiveness abroad.  Bureau's desired outcomes under the [Department's Strategic Plan](http://2010-2014.commerce.gov/sites/default/files/documents/2014/march/doc_fy2014-2018_strategic_plan.pdf) for Data are:
 
 * Improved dissemination pathways for information that is already public.
 * Stronger and more engaged users around data products.
@@ -31,7 +31,7 @@ To support America's economic prosperity and its competitiveness abroad.  Bureau
 9. Announce public-private partnership with industry leaders in support of "Project ABC"
 10. Stand up Bureau's Office of Data Analytics with full-time resources
 
-###Milestones:
+###Schedule Milestones:
 
 * Q1 FY 2016 = Deliverables 1, 2 and 3
 * Q2 FY 2016 = Deliverables 4 and 5
