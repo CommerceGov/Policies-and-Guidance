@@ -20,4 +20,4 @@ Economic Development requires effective, collaborative institutions focused on a
 
 ###Owners & Points of Contact:
 
-* Deliverables 1 & 2 = Jay Williams, Assistant Secretary of Commerce for Economic Development.
+* Deliverables 1 & 2 = Bryan Borlik, Director Trade Adjustment Assistance, bborlik@eda.gov.
