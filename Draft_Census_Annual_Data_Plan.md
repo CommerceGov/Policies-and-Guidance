@@ -69,36 +69,37 @@ Note that this list does not include Decennial Census or Economic Census data re
 
 ###Schedule Milestones:
 
-* Deliverables 1 & 2: Annually in January 
-* Deliverables 3, 4, 5, 6 & 7: Annually in February
-* Deliverables 8, 9, 10, 11 & 12: Annually in March
+* Deliverables 1, 2: Annually in January 
+* Deliverables 3, 4, 5, 6, 7: Annually in February
+* Deliverables 8, 9, 10, 11, 12: Annually in March
 * Deliverable 13: Annually in April
-* Deliverables 14, 15 & 16: Annually in May
-* Deliverables 17, 18, 19, 20 & 21: Annually in June
+* Deliverables 14, 15, 16: Annually in May
+* Deliverables 17, 18, 19, 20, 21: Annually in June
 * Deliverables 22: Annually in July
 * Deliverables 23: Annually in August
-* Deliverables 24, 25, 26, & 27: Annually in September
+* Deliverables 24, 25, 26, 27: Annually in September
 * Deliverable 28: November
-* Deliverables 29, 30, 31 & 32: Annually in December
-* Deliverables 33 through 56: Monthly
+* Deliverables 29, 30, 31: Annually in December
+* Deliverables 32-42: Monthly
+* Deliverables 43-55: Quarterly
 
 ###Owners & Points of Contact:
 
-* Deliverables 1, 8, 14, 17, 29,  = Ryan Burson
-* Deliverables 2, 3, 4, 5, 6, 7, 11, 12, 18, 19, 20, 32, 55 & 56 = Erika Becker Medina
-* Deliverables 9 & 30 = Lucy Datzell
-* Deliverables 10, 38 & 40 = Bill Abriatis
-* Deliverables 13, 33 & 49 = Ian Thomas
-* Deliverables 15, 21, 22, 23, 27, 35, 36, 39, 41, 42, 43, 44, 45 & 46 = Erica Filipek
-* Deliverables 24 & 31 = Deb Stempowski
+* Deliverables 1, 8, 14, 17, 29 = Ryan Burson
+* Deliverables 2, 3, 4, 5, 6, 7, 11, 12, 18, 19, 20, 32, 54, 55 = Erika Becker Medina
+* Deliverables 9, 29, 30 = Lucy Datzell
+* Deliverables 10, 37, 39 = Bill Abriatis
+* Deliverables 112, 32, 48 = Ian Thomas
+* Deliverables 15, 21, 22, 23, 27, 34, 35, 39, 40, 41, 42, 43, 44, 45 = Erica Filipek
+* Deliverables 24, 31 = Deb Stempowski
 * Deliverable 25 = Carmen DeNavas-Walt
 * Deliverable 26 = Kathy Short
-* Deliverables 34 & 37 = Adriana Stoica
-* Deliverables 47 & 48 = Brandi Maxson
-* Deliverable 50 = Aidan Smith
-* Deliverable 51 = James Hinckley
-* Deliverable 52 = Susan Bucci
-* Deliverable 53 = George Boyd
-* Deliverable 54 = Bob Callis
+* Deliverables 33, 36 = Adriana Stoica
+* Deliverables 46, 47 = Brandi Maxson
+* Deliverable 49 = Aidan Smith
+* Deliverable 50 = James Hinckley
+* Deliverable 51 = Susan Bucci
+* Deliverable 52 = George Boyd
+* Deliverable 53 = Bob Callis
 
 The Lead Owner of this Plan is Jeannie Shiffer who can be contacted at Jeannie.L.Shiffer@census.gov.
