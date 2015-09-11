@@ -9,6 +9,12 @@ GitHub is a third-party website that offers code repositories that developers ca
 ##Department of Commerce Accounts on GitHub
 GitHub offers free public repositories for open source projects as well as subscription-based private repositories for closed projects. DOC has created an organization account with GitHub, which  includes a limited number of private repositories and unlimited public repositories. DOC staff interested in using GitHub to post content must create a repository in the DOC account that is applicable to the staff’s project. Project documents are grouped by GitHub repositories. If your project is a DOC-wide project, then you must create a repository on http://www.github.com/commercegov. If your project is a project owned by a bureau under the Department of Commerce, you may use the bureau’s GitHub account. Your bureau’s GitHub account must include the CommerceGov Owners team (https://github.com/orgs/CommerceGov/teams/owners) as a part of the bureau's owners group. Questions can be directed to Mike Kruger, Director of Digital Engagement, at mkruger@doc.gov.
 
+##Basics for GitHub Users
+All users (from DOC and its bureaus) should 
+1. Use a real picture as their GitHub profile pic.
+2. Enable two-factro authentication for their Github account. 
+
+
 ##Who May Have Administrative and Write Access to the Department of Commerce GitHub Account or Official DOC Bureau GitHub Accounts? Who may be team members?
 DOC civil service staff may be account owners and team leaders with administrative level rights, giving them the ability to create repositories and assign team members to their GitHub projects. Both DOC civil service staff and authorized contractors may be team members able to contribute content to existing repositories. Under no circumstances may non-DOC staff, unauthorized contractors, or members of the public become team members. DOC uses GitHub in the spirit of [Open Government](http://www.whitehouse.gov/open). The public can make [pull requests](https://help.github.com/articles/using-pull-requests/), comment, and make content suggested edits to your content. Pull requests are the heart of collaboration on GitHub. When GitHub members make a pull request, they are proposing their changes to your content and requesting that you pull in their contribution. They will not be allowed to make actual changes until you review and approve those changes.
 
