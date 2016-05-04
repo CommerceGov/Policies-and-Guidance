@@ -67,7 +67,7 @@ mkruger@doc.gov.
 
 [USPTO](www.github.com/uspto)
 
-[NOAAORRERD](www.github.com/NOAAORRERD)
+[NOAAORRERD](www.github.com/NOAA-ORR-ERD)
 
 [NMML](www.github.com/NMML)
 
