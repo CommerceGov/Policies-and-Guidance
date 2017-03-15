@@ -65,7 +65,7 @@ If you do not see your official DOC GitHub account listed, please contact the DO
 
 [InternationalTradeAdministration](https://github.com/InternationalTradeAdministration/developerportal)
 
-[NOAAORRERD](https://github.com/NOAAORRERD)
+[NOAAORRERD](https://github.com/NOAA-ORR-ERD)
 
 [NOAA-GFDL](https://github.com/NOAA-GFDL)
 
