@@ -21,7 +21,7 @@ DOC civil service staff may be account owners and team leaders with administrati
 ## Getting Started
 ### Approval Steps
 1.	Get approval from your supervisor to proceed.
-2.	Login to the [DOC Social Media Application Tracking System](https://socmed.my.commerce.gov/) and apply for permission to create a Github account. You must register with your work email, which should be independent from any personal account you may have on Github. 
+2.	Login to the [DOC Social Media Application Tracking System](https://socmed.commerce.gov/) and apply for permission to create a Github account. You must register with your work email, which should be independent from any personal account you may have on Github. 
 3.	Get approval from the information owner of the DOC software or code that you want to put on GitHub. Permission from the information owner ensures that DOC or the DOC bureau allows the information to be placed on GitHub private repositories for internal collaboration or on GitHub public repositories for internal collaboration, public comment, and public use.
 4.	Forward your approval from your manager and the information owner to your bureau’s normal approvers for web content.
 5.	Upon approval from the proper web content approving authority, post the code, and share the link with the data owner and the web content approving authority.
